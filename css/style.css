@@ -500,8 +500,8 @@ nav ul li a:hover:before{
     border-color: #f0432f;
 }
 .service__mobile-icon{
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     background: #fa183d;
     display: flex;
@@ -524,9 +524,10 @@ nav ul li a:hover:before{
 .service h2{
     font-size: 24px;
     color: #ffffff;
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 15px;
     font-weight: 400;
+    box-sizing: border-box;
     transition: .4s;
 }
 .service:hover h2{
@@ -688,7 +689,7 @@ nav ul li a:hover:before{
     background: rgba(0, 0, 0, 0.2);
     padding: 50px;
     margin-right: 25px;
-    height: 360px;
+
     border-radius: 5px;
 }
 .testi__details h4{
@@ -812,13 +813,13 @@ nav ul li a:hover:before{
     padding-bottom: 25px;
 }
 .ftr-msg input{
-    height: 30px;
+    height: 40px;
     color: #666666;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
     font-style: italic;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     border-radius: 0;
     background: transparent;
     border: 1px solid #fff;
@@ -826,7 +827,7 @@ nav ul li a:hover:before{
     width: 100%;
 }
 .ftr-msg textarea{
-    height: 150px;
+    height: 160px;
     color: #666666;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
