@@ -1,0 +1,30 @@
+https://templates.envytheme.com/augu/default/index-3.html
+https://preview.themeforest.net/item/mibooz-creative-agency-html-template/full_screen_preview/33911265?_ga=2.204453907.2039706627.1633163172-1273636576.1633162991
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Roboto', sans-serif;
+
+font-family: 'Palanquin Dark', sans-serif;
+
+font-family: 'Arimo', sans-serif;
+
+ <div class="title">
+                <h6>Our Services</h6>
+                <h4>We Shape the
+                 Perfect solution</h4>
+              </div>
+
+
+              #service__part .title h6{
+    font-size: 14px;
+    font-weight: 400;
+    color: #E43C31;
+
+}
+#service__part .title h4{
+    color: #363535;
+    font-size: 36px;
+    font-weight: 600;
+
+}
